@@ -1,4 +1,6 @@
  // Online C++ compiler to run C++ program online
+ // Just like graph , binary tree has two traversing method 1.DFS and 2.BFS
+ // DFS is further divided in 3 types ---> Inorder, Preorder and postorder
 #include <iostream>
 using namespace std;
 struct node
